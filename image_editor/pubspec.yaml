@@ -19,6 +19,11 @@ dependencies:
   #   path: ../image_editor_platform_interface
   # image_editor_ohos:
   #   path: ../image_editor_ohos
+dependency_overrides:
+  image_editor_common:
+    git:
+      url: https://github.com/fluttercandies/flutter_image_editor
+      path: image_editor_common/
 dev_dependencies:
   flutter_test:
     sdk: flutter
