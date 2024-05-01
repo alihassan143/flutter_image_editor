@@ -1,10 +1,15 @@
 # CHANGELOG
 
+## 1.1.1
+
+- Upgrade `image_editor_platform_interface` to `1.1.0`.
+
 ## 1.1.0
 
 Feat:
 
 - Support `TextAlign` for `EditorText`.
+- Added AGP 8 Support by @jgrubesa-most in [#117](https://github.com/fluttercandies/flutter_image_editor/pull/117)
 
 ## 1.0.1
 

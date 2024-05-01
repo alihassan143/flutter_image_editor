@@ -1,3 +1,15 @@
+## 0.0.7
+
+* Update hvigor to 4.1.2
+
+## 0.0.6
+
+* Fix merge image rendering error
+
+## 0.0.5
+
+* Fix text drawing coordinate system
+
 ## 0.0.4
 
 * Add system font for add_text
